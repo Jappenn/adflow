@@ -1,0 +1,22 @@
+*************************************************************************************************************************
+
+Strutture per test ad impulso 
+
+*************************************************************************************************************************
+
+
+La provetta tipo Ludwieg fa parte e rientra nella famiglia delle strutture per test ad impulso in cui si trova
+il funzionamento,dipende da onde instabili che si propagano nei tubi.
+
+In origine fu proposto per i test in moto transonico con il suo requisito di abbinare Mach a fondo scala e
+Numeri di Reynolds.
+
+Inoltre, l'espansione instabile smorza l'instabilità del flusso per produrre un flusso silenzioso.
+
+Questa caratteristica silenziosa è stata sfruttata con successo per studi di transizione in una provetta Mach 5 Ludwieg.
+
+
+Il tubo Ludwieg,noto come High Reynolds number Transonic tunnel (HIRT).
+Il tunnel transonico (HIRT) del numero di Reynolds è stato all'origine installato presso l'Arnold
+Engineering Development Center come modello in scala 1/13 di una struttura molto più grande che era
+mai stato costruito.
